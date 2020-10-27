@@ -1,2 +1,2 @@
-# LinearClassification
-Making prediction suing classification
+# LinearClassification(Keras)
+Making prediction using classification
